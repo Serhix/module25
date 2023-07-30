@@ -1,0 +1,40 @@
+2023-07-30 19:14:12 - Lisa Salazar: 30.07.2023:
+ EUR: sale: 40.7228 purchase: 40.7228
+30.07.2023:
+ USD: sale: 36.5686 purchase: 36.5686
+29.07.2023:
+ EUR: sale: 40.7228 purchase: 40.7228
+29.07.2023:
+ USD: sale: 36.5686 purchase: 36.5686
+2023-07-30 19:47:43 - George Maloney: 30.07.2023:
+ EUR: sale: 40.7228 purchase: 40.7228
+30.07.2023:
+ USD: sale: 36.5686 purchase: 36.5686
+29.07.2023:
+ EUR: sale: 40.7228 purchase: 40.7228
+29.07.2023:
+ USD: sale: 36.5686 purchase: 36.5686
+2023-07-30 19:50:00 - Mary Dewall: 30.07.2023:
+ EUR: sale: 40.7228 purchase: 40.7228
+30.07.2023:
+ USD: sale: 36.5686 purchase: 36.5686
+29.07.2023:
+ EUR: sale: 40.7228 purchase: 40.7228
+29.07.2023:
+ USD: sale: 36.5686 purchase: 36.5686
+2023-07-30 19:56:59 - Gerry Smith: 30.07.2023:
+ EUR: sale: 40.7228 purchase: 40.7228
+30.07.2023:
+ USD: sale: 36.5686 purchase: 36.5686
+29.07.2023:
+ EUR: sale: 40.7228 purchase: 40.7228
+29.07.2023:
+ USD: sale: 36.5686 purchase: 36.5686
+2023-07-30 20:00:56 - Chandra Carney: 30.07.2023:
+ EUR: sale: 40.7228 purchase: 40.7228
+30.07.2023:
+ USD: sale: 36.5686 purchase: 36.5686
+29.07.2023:
+ EUR: sale: 40.7228 purchase: 40.7228
+29.07.2023:
+ USD: sale: 36.5686 purchase: 36.5686

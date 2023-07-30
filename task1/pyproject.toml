@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "module25task1"
+version = "0.1.0"
+description = ""
+authors = ["Strategs <127782103+Strategs@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+aiohttp = "^3.8.5"
+asyncio = "^3.4.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
